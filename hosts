@@ -15,3 +15,10 @@ fe80::1%lo0	localhost
 127.0.0.1 www.bpanels.dev
 127.0.0.1 poa.dev www.poa.dev
 204.75.178.123 promontory.rpac.org ovcatto.rpac.org
+127.0.0.1 beer.dev
+127.0.0.1 mtm7.dev www.mtm7.dev
+127.0.0.1 abcabc.dev www.abcabc.dev
+204.75.178.162 2016.philorch.org
+204.75.178.160 www.philorch.org philorch.org
+
+10.2.3.21       cms.ticketphiladelphia.org
